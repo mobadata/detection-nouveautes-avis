@@ -9,12 +9,12 @@ Ce projet vise à identifier les thèmes qui apparaissent ou disparaissent dans 
 - Identifier les nouveautés dans les attentes clients
 
 ## Outils utilisés
-
-- Python (Pandas, Numpy)
-- BERTopic (pour extraire les thèmes)
-- UMAP + HDBSCAN (clustering)
-- NLTK et SpaCy (traitement de texte)
 - Google Colab + Google Drive
+- Python (Pandas, Numpy)
+- NLTK et SpaCy (traitement de texte)
+- BERTopic (pour extraire les thèmes)
+- LDA 
+- CEND
 
 ## Structure du projet
 
@@ -26,4 +26,4 @@ Ce projet vise à identifier les thèmes qui apparaissent ou disparaissent dans 
 
 ## Auteur
 
-Projet réalisé par Moussa BA.
+Projet réalisé par Moussa BA & Yebouet Cédrick Armel.
